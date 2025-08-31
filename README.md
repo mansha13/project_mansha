@@ -1,8 +1,7 @@
-# Welcome to your Lovable project
 
 ## Project info
 
-**URL**: https://lovable.dev/projects/4ab6441d-9970-4ed0-9b46-ea506f7d0105
+**URL**: https://projects/4ab6441d-9970-4ed0-9b46-ea506f7d0105
 
 ## How can I edit this code?
 
@@ -71,3 +70,4 @@ Yes, you can!
 To connect a domain, navigate to Project > Settings > Domains and click Connect Domain.
 
 Read more here: [Setting up a custom domain](https://docs.lovable.dev/tips-tricks/custom-domain#step-by-step-guide)
+
